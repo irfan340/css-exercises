@@ -2,3 +2,16 @@
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.adjusted-font-size{
+    font-size: 24px;    
+}
+.even{
+    background-color: #009600;
+    font-weight: bold;
+}
